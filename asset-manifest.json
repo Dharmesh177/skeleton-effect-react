@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.b7cd691d.css",
-    "main.js": "/static/js/main.56b34970.js",
-    "static/js/787.7028504d.chunk.js": "/static/js/787.7028504d.chunk.js",
-    "index.html": "/index.html",
-    "main.b7cd691d.css.map": "/static/css/main.b7cd691d.css.map",
-    "main.56b34970.js.map": "/static/js/main.56b34970.js.map",
-    "787.7028504d.chunk.js.map": "/static/js/787.7028504d.chunk.js.map"
+    "main.css": "/skeleton-effect-react/static/css/main.b7cd691d.css",
+    "main.js": "/skeleton-effect-react/static/js/main.9b133eeb.js",
+    "static/js/787.7028504d.chunk.js": "/skeleton-effect-react/static/js/787.7028504d.chunk.js",
+    "index.html": "/skeleton-effect-react/index.html",
+    "main.b7cd691d.css.map": "/skeleton-effect-react/static/css/main.b7cd691d.css.map",
+    "main.9b133eeb.js.map": "/skeleton-effect-react/static/js/main.9b133eeb.js.map",
+    "787.7028504d.chunk.js.map": "/skeleton-effect-react/static/js/787.7028504d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b7cd691d.css",
-    "static/js/main.56b34970.js"
+    "static/js/main.9b133eeb.js"
   ]
 }
